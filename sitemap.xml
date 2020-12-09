@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>/post/2020/12/09/new-post/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/project2/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
   </url>
@@ -24,11 +34,6 @@
   
   <url>
     <loc>/tags/plot/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url>
   
