@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/project/project2/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -24,11 +34,6 @@
   
   <url>
     <loc>/project/project1/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -55,11 +60,6 @@
   <url>
     <loc>/post/2020/12/02/test-post/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/project2/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
